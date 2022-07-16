@@ -1,11 +1,13 @@
 ### Hey 👋,
 **I am Dattaraj [ AKA. Raj ] , A Computerphile, Web Enthusiast, Student and maybe Developer too..!**
 - 👨‍🎓 I’m in Class 11th 
-- 🎯 Currently focusing on education..
+- 🎯 Currently focusing on academics..
 - 📫 I'm on discord too - [@Raj!](https://discord.com/channels/@me)
 - 😋 Fun Fact: I don't use Instagram
 - 🤟 My Website: [Currently being developed]
-
+<br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dattaraj-Shinde&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br><br>
 **Languages & Tools:** <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://www.tech-wiki.net/images/a/a8/Notepad%2B%2B_logo.png" height="40" /></a>
