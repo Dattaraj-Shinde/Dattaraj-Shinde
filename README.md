@@ -3,8 +3,8 @@
 - 👨‍🎓 I’m in Class 11th 
 - 🎯 Currently focusing on education..
 - 📫 I'm on discord too - [@Raj!](https://discord.com/channels/@me)
-- 😋 Fun Fact: I am not on Instagram
-- 🤟 My Website: [Development mode]
+- 😋 Fun Fact: I don't use Instagram
+- 🤟 My Website: [Currently being developed]
 
 **Languages & Tools:** <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="40" /></a>
