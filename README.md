@@ -1,9 +1,9 @@
 ### Hey 👋,
-**I am Dattaraj [ AKA. Raj ] , A Computerphile, Web Enthusiast, Student and maybe Developer too..!**
+**I am Dattaraj [ AKA. Raj ] , A Computerphile, Web Enthusiast, Student, Developer & Designer..!**
 - 👨‍🎓 I’m in Class 11th 
 - 🎯 Currently focusing on academics..
 - 📫 I'm on discord too - [@Raj!](https://discord.com/channels/@me)
-- 😋 Fun Fact: I don't use Instagram
+- 😋 Fun Fact: 
 - 🤟 My Website: [Currently being developed]
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dattaraj-Shinde&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
