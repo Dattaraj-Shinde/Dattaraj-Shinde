@@ -1,7 +1,7 @@
 ### Hey 👋,
 **I am Dattaraj [ AKA. Raj ] , A Computerphile, Web Enthusiast, Student, Developer & Designer..!**
-- 👨‍🎓 I’m in Class 11th 
-- 🎯 Currently focusing on academics..
+- 👨‍🎓 I’m in Class 12th 
+- 🎯 Currently focusing on doing something prod
 - 📫 I'm on discord too - [@ᖇaj#2506](https://discord.com/channels/@me)
 - 🚀 DM me for collaborations 
 - 🏄‍♂️ I like Web Surfing 
